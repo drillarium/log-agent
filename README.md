@@ -1,2 +1,2 @@
 # log-agent
-Fast C++ logging library with DB agents
+Fast C++ logging library with DB agents.
